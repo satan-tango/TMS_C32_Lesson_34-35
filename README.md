@@ -7,4 +7,4 @@ Books (id, title, author, year of publication)
 Readers (id, name, email)
 Reservations (id, book_id, reader_id, booking_date, return_date)
 
-4. Connect the Flyway to the project
+4. Connect  Flyway to the project
